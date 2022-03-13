@@ -3,6 +3,8 @@
 
 Illustrations are great way to communicate the state of the component using svg instead of text only. You might see alot of illustrations from Salesforce standard components. This custom component leverages the SLDS for each illustration and provides a common component to render any of the illustration based on variant. It is further extended to add header or footer using slots.
 
+![plot](./illustration-demo.png)
+
 ##### How to use it?
 
 ```
